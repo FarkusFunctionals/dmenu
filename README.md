@@ -1,4 +1,4 @@
-#dmenu
+# dmenu
 
 Extra stuff added to vanilla dmenu:
 
